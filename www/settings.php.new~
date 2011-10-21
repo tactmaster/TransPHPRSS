@@ -1,0 +1,21 @@
+<?php
+require_once(dirname(__FILE__) . '/includes.php');
+?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title></title>
+    </head>
+    <body>
+          <form>
+            <label>Username: </label><input type="text" name="username" value="<?php print $settings->username; ?>" /><br />
+            <label>Password: </label><input type="text" name="password" value="<?php print $settings->password; ?>" /><br />       
+            <label>Refresh time: </label><input type="number" name="repeat" value="<?php print $settings->repeat; ?>" /><br />         
+            <label>Timezone: </label><input type="text" name="timezone" value="<?php print $settings->timezone; ?>" /><br />       
+            <label>Base Save Location: </label><input type="text" name="defaultsave" value="<?php print $settings->defaultsave; ?>" /><br />  
+            <label>Transmission RPC URL </label><input type="url" name="url" size="100" value="<?php print $settings->url; ?>" /><br />  
+            <input type="submit" value="Save" />
+        </form>
+    </body>
+</html>
