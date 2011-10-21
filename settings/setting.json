@@ -1,0 +1,68 @@
+
+{
+  "username":"admin",
+  "password":"password1",
+  "repeat":720,
+  "debug":true,
+
+  "daemon":false,
+  "defaultsave":"\/media\/BitTorrent\/",
+  "url":"http:\/\/jeffmund:8181\/transmission\/rpc",
+  "feeds":{
+    "Bigbang":{
+      "url":"http:\/\/www.ezrss.it\/search\/index.php?simple&show_name=Big+Bang+Theory&mode=rss",
+      "folder":"bigbang",
+      "torrents":null,
+      "usemagnet":false,
+      "startpaused":null,
+      "filter":null,
+      "title":"",
+      "link":""
+    },
+    "Bigbang2":{
+      "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/the-big-bang-theory",
+      "folder":"bigbang",
+      "torrents":null,
+      "usemagnet":false,
+      "startpaused":null,
+      "filter":null,
+      "title":"",
+      "link":""
+    },
+    "ubuntu":{
+      "url":"http:\/\/www.mininova.org\/rss\/virtualbox+ubuntu+i386",
+      "folder":"ubuntu",
+      "torrents":null,
+      "usemagnet":false,
+      "startpaused":null,
+      "filter":null
+    },
+    "burnnotice":{
+      "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/burn-notice",
+      "folder":"burn notice",
+      "torrents":null,
+      "usemagnet":false,
+      "startpaused":null,
+      
+      "filter":"720"
+    },
+    "8outof10cats":{
+      "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/8-out-of-10-cats-uncut",
+      "folder":"8outof10cats",
+      "torrents":null,
+      "usemagnet":false,
+      "startpaused":null,
+      
+      "filter":"HD"
+    },
+    "mocktheweek":{
+      "url":"http://www.dailytvtorrents.org\/rss\/show\/mock-the-week",
+      "folder":"mocktheweek",
+      "torrents":null,
+      "usemagnet":false,
+      "startpaused":null,
+      
+      "filter":"720"
+    }
+  }
+}

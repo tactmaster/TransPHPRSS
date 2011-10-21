@@ -1,0 +1,61 @@
+<?php
+require_once(dirname(__FILE__) . '/includes.php');
+
+$feeds = loadFeeds($feedsfile);
+
+?>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <table border="1">
+            <tr><th>Name</th><th>URL</th><th>Folder</th><th>Use Magnet</th> </tr>
+         
+            <?php
+            foreach ($feeds as $name => $feed) {
+                ?>
+                <tr>
+                    <td><?php echo $name; ?></td>
+                    <td><a href="<?php echo $feed->url; ?>"><?php echo $feed->url; ?> </a></td>
+                    <td><?php echo $feed->folder; ?></td>
+                    <td>
+                        <table>
+                            <?php 
+                                            print_r($feed);
+                            foreach ($feed->torrents as $guid => $torrent)
+                            {?>
+                            <tr>
+                                  <?php echo $guid; ?>                              
+                            </tr>
+                            <?php }
+                            
+                            ?>
+                        </table>
+                        
+                    </td>
+                    <td><?php if ($feed->usemagnet) { ?>
+                            <input type="checkbox" checked="true" readonly="true"/> 
+                            <?php
+                        } else {
+                            ?>
+                            <input type="checkbox"  readonly="true"/> 
+                        <?php }; ?></td>
+                </tr>
+                <tr>
+           
+            </tr>
+            <?php
+        }
+        ?>
+    </table>
+        
+        
+       
+         
+    </body>
+</html>
