@@ -16,16 +16,57 @@ root {
 
 }
 body {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 0 10px;
+    font: normal 82.5% "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 form {
-			
-		}
-                
-                input, textarea {
-			
-			background-color:#fff;
-			border:1px solid #ccc;
-			
-		}
+
+}
+
+input, textarea {
+
+    background-color:#fff;
+    border:1px solid #ccc;
+
+}
+
+
+h1 { font-size: 150%; }
+h2 { font-size: 140%; }
+h3 { font-size: 130%; }
+h4 { font-size: 120%; }
+h5 { font-size: 110%; }
+
+
+table {
+    border: 1px solid #666;
+    margin: 20px 0 20px 0 !important;
+}
+
+th, td {
+    padding: 2px 4px 2px 4px !important;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background-color: #fc0;
+}
+
+th:hover {
+    background-color: #fc7;
+}
+
+tbody tr.even {
+    background-color: #fea
+}
+
+tr a {
+    color: rgb(102, 102, 102);
+    text-decoration: none;
+}
+tr a:hover {
+    text-decoration: underline;
+}
+

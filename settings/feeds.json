@@ -302,12 +302,62 @@
         "results":null,
         "hashstring":null,
         "datedadded":null
+      },
+      "http:\/\/eztv.it\/ep\/30208\/the-big-bang-theory-s05e05-the-russian-rocket-reaction-hdtv-xvid-fqm\/":{
+        "title":"The Big Bang Theory - The Russian Rocket Reaction 5x5 [HDTV - FQM]",
+        "guid":"http:\/\/eztv.it\/ep\/30208\/the-big-bang-theory-s05e05-the-russian-rocket-reaction-hdtv-xvid-fqm\/",
+        "link":"http:\/\/torrent.zoink.it\/The.Big.Bang.Theory.S05E05.The.Russian.Rocket.Reaction.HDTV.XviD-FQM.[eztv].torrent",
+        "added":true,
+        "magnet":"magnet:?xt=urn:btih:3O5LSX2HUV53QG3RCGNIRA2PTQECLUPM&dn=The.Big.Bang.Theory.S05E05.The.Russian.Rocket.Reaction.HDTV.XviD-FQM",
+        "results":"success",
+        "hashstring":"dbbab95f47a57bb81b71119a88834f9c0825d1ec",
+        "datedadded":"2011-10-15T18:21:59+01:00"
+      },
+      "http:\/\/eztv.it\/ep\/30566\/the-big-bang-theory-s05e07-hdtv-xvid-2hd\/":{
+        "title":"The Big Bang Theory 5x7 [HDTV - 2HD]",
+        "guid":"http:\/\/eztv.it\/ep\/30566\/the-big-bang-theory-s05e07-hdtv-xvid-2hd\/",
+        "link":"http:\/\/torrent.zoink.it\/The.Big.Bang.Theory.S05E07.HDTV.XviD-2HD.[eztv].torrent",
+        "added":true,
+        "magnet":"magnet:?xt=urn:btih:JEWUQVHIWRBOUN6BBX5EYFR3XHEDFVVS&dn=The.Big.Bang.Theory.S05E07.HDTV.XviD-2HD",
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-29T21:40:54+01:00"
+      },
+      "http:\/\/eztv.it\/ep\/30397\/the-big-bang-theory-s05e06-hdtv-xvid-asap\/":{
+        "title":"The Big Bang Theory 5x6 [HDTV - ASAP]",
+        "guid":"http:\/\/eztv.it\/ep\/30397\/the-big-bang-theory-s05e06-hdtv-xvid-asap\/",
+        "link":"http:\/\/torrent.zoink.it\/The.Big.Bang.Theory.S05E06.HDTV.XviD-ASAP.[eztv].torrent",
+        "added":true,
+        "magnet":"magnet:?xt=urn:btih:6A4P5SVENS3FGMAMPOVZVF4LVRMUK42X&dn=The.Big.Bang.Theory.S05E06.HDTV.XviD-ASAP",
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-29T21:40:54+01:00"
+      },
+      "http:\/\/eztv.it\/ep\/30768\/the-big-bang-theory-s05e08-hdtv-xvid-asap\/":{
+        "title":"The Big Bang Theory 5x8 [HDTV - ASAP]",
+        "guid":"http:\/\/eztv.it\/ep\/30768\/the-big-bang-theory-s05e08-hdtv-xvid-asap\/",
+        "link":"http:\/\/torrent.zoink.it\/The.Big.Bang.Theory.S05E08.HDTV.XviD-ASAP.[eztv].torrent",
+        "added":true,
+        "magnet":"magnet:?xt=urn:btih:6A3D5QUFQKRFABK5DOBSXUJ6ZJEWXTVT&dn=The.Big.Bang.Theory.S05E08.HDTV.XviD-ASAP",
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-11-04T11:53:59+00:00"
+      },
+      "http:\/\/eztv.it\/ep\/30993\/the-big-bang-theory-s05e09-the-ornithophobia-diffusion-hdtv-xvid-fqm\/":{
+        "title":"The Big Bang Theory - The Ornithophobia Diffusion 5x9 [HDTV - FQM]",
+        "guid":"http:\/\/eztv.it\/ep\/30993\/the-big-bang-theory-s05e09-the-ornithophobia-diffusion-hdtv-xvid-fqm\/",
+        "link":"http:\/\/torrent.zoink.it\/The.Big.Bang.Theory.S05E09.The.Ornithophobia.Diffusion.HDTV.XviD-FQM.[eztv].torrent",
+        "added":true,
+        "magnet":"magnet:?xt=urn:btih:WFDRJPWOVITNYV3MCOBHEAHWARFOQO34&dn=The.Big.Bang.Theory.S05E09.The.Ornithophobia.Diffusion.HDTV.XviD-FQM",
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-11-11T07:03:16+00:00"
       }
     },
     "usemagnet":false,
     "startpaused":null,
     "filter":null,
-    "checkdate":"2011-10-09T21:59:34+01:00"
+    "checkdate":"2011-11-16T12:45:35+00:00"
   },
   "Bigbang2":{
     "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/the-big-bang-theory",
@@ -376,7 +426,7 @@
       "52Z_S05E02_720":{
         "title":"The Big Bang Theory S05E02 [720]",
         "guid":"52Z_S05E02_720",
-        "link":"http:\/\/www.dailytvtorrents.org\/dl\/ecu\/The.Big.Bang.Theory.S05E02.PROPER.720p.HDTV.x264-TLA.DailyTvTorrents.torrent",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/e9h\/The.Big.Bang.Theory.S05E02.REAL.PROPER.720p.HDTV.X264-QCF.DailyTvTorrents.torrent",
         "added":true,
         "magnet":null,
         "results":null,
@@ -386,7 +436,7 @@
       "52X_S05E01_720":{
         "title":"The Big Bang Theory S05E01 [720]",
         "guid":"52X_S05E01_720",
-        "link":"http:\/\/www.dailytvtorrents.org\/dl\/e0e\/The.Big.Bang.Theory.S05E01.720p.HDTV.x264-IMMERSE.mkv.DailyTvTorrents.torrent",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/e03\/The_Big_Bang_Theory_S05E01_720p_HDTV_x264-IMMERSE.DailyTvTorrents.torrent",
         "added":true,
         "magnet":null,
         "results":null,
@@ -452,12 +502,112 @@
         "results":null,
         "hashstring":null,
         "datedadded":null
+      },
+      "6HF_S05E05_HD":{
+        "title":"The Big Bang Theory S05E05 [HD]",
+        "guid":"6HF_S05E05_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/hk3\/The_Big_Bang_Theory_S05E05_HDTV_XviD-FQM-%5BBTARENA.org%5D.avi.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"c6cf933ece09cad828b9056dea1a15b9274abd5d",
+        "datedadded":"2011-10-15T18:22:05+01:00"
+      },
+      "6HF_S05E05_720":{
+        "title":"The Big Bang Theory S05E05 [720]",
+        "guid":"6HF_S05E05_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/hjx\/The.Big.Bang.Theory.S05E05.720p.HDTV.x264-IMMERSE-%5BBTARENA.org%5D..DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"9c9ff2c68021a3c2e589702151fa4f79e67fbe6d",
+        "datedadded":"2011-10-15T18:22:05+01:00"
+      },
+      "7IX_S05E07_HD":{
+        "title":"The Big Bang Theory S05E07 [HD]",
+        "guid":"7IX_S05E07_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/kmz\/The_Big_Bang_Theory_S05E07_HDTV_XviD-2HD_%5Beztv%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-29T21:40:55+01:00"
+      },
+      "7IX_S05E07_720":{
+        "title":"The Big Bang Theory S05E07 [720]",
+        "guid":"7IX_S05E07_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/kul\/The.Big.Bang.Theory.S05E07.720p.HDTV.x264-IMMERSE.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-29T21:40:55+01:00"
+      },
+      "6ZR_S05E06_720":{
+        "title":"The Big Bang Theory S05E06 [720]",
+        "guid":"6ZR_S05E06_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/j2k\/The.Big.Bang.Theory.S05E06.720p.HDTV.x264-IMMERSE.mkv.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"fb032a01baa28993ff2ccfaa3c22d730870fffff",
+        "datedadded":"2011-10-29T21:40:55+01:00"
+      },
+      "6ZR_S05E06_HD":{
+        "title":"The Big Bang Theory S05E06 [HD]",
+        "guid":"6ZR_S05E06_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/j30\/The.Big.Bang.Theory.S05E06.HDTV.XviD-ASAP.%255Beztv%255D.torrent.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-29T21:40:55+01:00"
+      },
+      "82Q_S05E08_HD":{
+        "title":"The Big Bang Theory S05E08 [HD]",
+        "guid":"82Q_S05E08_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/mk5\/The_Big_Bang_Theory_S05E08_HDTV_XviD-ASAP_%5Beztv%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"f0363ec28582a250055d1b832bd13eca496bceb3",
+        "datedadded":"2011-11-04T11:54:04+00:00"
+      },
+      "82Q_S05E08_720":{
+        "title":"The Big Bang Theory S05E08 [720]",
+        "guid":"82Q_S05E08_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/mr3\/The.Big.Bang.Theory.S05E08.The.Isolation.Permutation.720p.WEB-DL.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"dc17be7dc13a2d28a799768ac2121933a1ced187",
+        "datedadded":"2011-11-04T11:54:04+00:00"
+      },
+      "8QO_S05E09_720":{
+        "title":"The Big Bang Theory S05E09 [720]",
+        "guid":"8QO_S05E09_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/oj5\/The.Big.Bang.Theory.S05E09.720p.hdtv.x264-orenji.mkv.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"2da7092269fff05c81feaefb549de57f98d20a87",
+        "datedadded":"2011-11-11T07:03:23+00:00"
+      },
+      "8QO_S05E09_HD":{
+        "title":"The Big Bang Theory S05E09 [HD]",
+        "guid":"8QO_S05E09_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/oj3\/The.Big.Bang.Theory.S05E09.The.Ornithophobia.Diffusion.HDTV.XviD-FQM.%255Beztv%255D.torrent.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-11-11T07:03:23+00:00"
       }
     },
     "usemagnet":false,
     "startpaused":null,
     "filter":null,
-    "checkdate":"2011-10-09T21:59:35+01:00"
+    "checkdate":"2011-11-16T12:45:36+00:00"
   },
   "ubuntu":{
     "url":"http:\/\/www.mininova.org\/rss\/virtualbox+ubuntu+i386",
@@ -572,12 +722,22 @@
         "results":null,
         "hashstring":null,
         "datedadded":null
+      },
+      "http:\/\/www.mininova.org\/tor\/13202232":{
+        "title":"VirtualBox - Xubuntu 11.10 i386 Desktop Virtual Appliance - [VirtualBoxImages.com]",
+        "guid":"http:\/\/www.mininova.org\/tor\/13202232",
+        "link":"http:\/\/www.mininova.org\/get\/13202232",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"ccc93095ad73f51443801ef2a9cf431be979be31",
+        "datedadded":"2011-10-29T21:40:56+01:00"
       }
     },
     "usemagnet":false,
     "startpaused":null,
     "filter":null,
-    "checkdate":"2011-10-09T21:59:35+01:00"
+    "checkdate":"2011-11-16T12:45:41+00:00"
   },
   "burnnotice":{
     "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/burn-notice",
@@ -596,7 +756,7 @@
       "3XJ_S05E11_720":{
         "title":"Burn Notice S05E11 [720]",
         "guid":"3XJ_S05E11_720",
-        "link":"http:\/\/www.dailytvtorrents.org\/dl\/b6w\/Burn.Notice.S05E11.720p.HDTV.x264-ORENJI.DailyTvTorrents.torrent",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/b6y\/Burn.Notice.S05E11.720p.HDTV.x264-ORENJI%5Bss%5D.DailyTvTorrents.torrent",
         "added":true,
         "magnet":null,
         "results":null,
@@ -682,12 +842,32 @@
         "results":null,
         "hashstring":null,
         "datedadded":null
+      },
+      "838_S05E13_720":{
+        "title":"Burn Notice S05E13 [720]",
+        "guid":"838_S05E13_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/ml2\/Burn.Notice.S05E13.720p.HDTV.x264-IMMERSE.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"b8a3d2de480b0e6e3ac6c6b904494f9e0bf7b2e8",
+        "datedadded":"2011-11-04T11:54:09+00:00"
+      },
+      "8RB_S05E14_720":{
+        "title":"Burn Notice S05E14 [720]",
+        "guid":"8RB_S05E14_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/oku\/Burn.Notice.S05E14.720p.HDTV.x264-AVS.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"80a38224a20059693a5684c315a1bab4b677d3a5",
+        "datedadded":"2011-11-11T07:03:26+00:00"
       }
     },
     "usemagnet":false,
     "startpaused":null,
-    "filter":null,
-    "checkdate":"2011-10-09T21:59:35+01:00"
+    "filter":"720",
+    "checkdate":"2011-11-16T12:45:42+00:00"
   },
   "mocktheweek":{
     "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/mock-the-week",
@@ -697,7 +877,317 @@
     ],
     "usemagnet":false,
     "startpaused":null,
-    "filter":null,
-    "checkdate":"2011-10-09T21:59:36+01:00"
+    "filter":"720",
+    "checkdate":"2011-11-16T12:45:44+00:00"
+  },
+  "8outof10cats":{
+    "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/8-out-of-10-cats-uncut",
+    "folder":"8outof10cats",
+    "torrents":{
+      "3VB_S11E11_720":{
+        "title":"8 Out of 10 Cats Uncut S11E11 [720]",
+        "guid":"3VB_S11E11_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/b1j\/8.Out.Of.10.Cats.Uncut.S11E11.720p.HDTV.x264-TLA.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:05:43+01:00"
+      },
+      "3IT_S11E10_720":{
+        "title":"8 Out of 10 Cats Uncut S11E10 [720]",
+        "guid":"3IT_S11E10_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/a9c\/8.Out.Of.10.Cats.Uncut.S11E10.720p.HDTV.x264-TLA.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:05:43+01:00"
+      },
+      "671_S12E03_HD":{
+        "title":"8 Out of 10 Cats Uncut S12E03 [HD]",
+        "guid":"671_S12E03_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/gp6\/8_Out_of_10_Cats_Uncut_S12E03_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:09:44+01:00"
+      },
+      "5MR_S12E02_HD":{
+        "title":"8 Out of 10 Cats Uncut S12E02 [HD]",
+        "guid":"5MR_S12E02_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/fd0\/8_Out_of_10_Cats_Uncut_S12E02_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:09:44+01:00"
+      },
+      "56S_S12E01_HD":{
+        "title":"8 Out of 10 Cats Uncut S12E01 [HD]",
+        "guid":"56S_S12E01_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/ebr\/8_Out_of_10_Cats_Uncut_S12E01_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:09:44+01:00"
+      },
+      "3VB_S11E11_HD":{
+        "title":"8 Out of 10 Cats Uncut S11E11 [HD]",
+        "guid":"3VB_S11E11_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/b1h\/8.Out.Of.10.Cats.Uncut.S11E11.HDTV.XviD-TLA.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:09:44+01:00"
+      },
+      "3IT_S11E10_HD":{
+        "title":"8 Out of 10 Cats Uncut S11E10 [HD]",
+        "guid":"3IT_S11E10_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/a9a\/8_Out_of_10_Cats_Uncut_S11E10_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:09:44+01:00"
+      },
+      "385_S11E09_HD":{
+        "title":"8 Out of 10 Cats Uncut S11E09 [HD]",
+        "guid":"385_S11E09_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/9l7\/8_Out_of_10_Cats_Uncut_S11E09_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:09:44+01:00"
+      },
+      "2WS_S11E08_HD":{
+        "title":"8 Out of 10 Cats Uncut S11E08 [HD]",
+        "guid":"2WS_S11E08_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/8rk\/8_Out_of_10_Cats_Uncut_S11E08_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:09:44+01:00"
+      },
+      "2LE_S11E07_HD":{
+        "title":"8 Out of 10 Cats Uncut S11E07 [HD]",
+        "guid":"2LE_S11E07_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/7wm\/8_Out_of_10_Cats_Uncut_S11E07_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:09:44+01:00"
+      },
+      "2B9_S11E06_HD":{
+        "title":"8 Out of 10 Cats Uncut S11E06 [HD]",
+        "guid":"2B9_S11E06_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/78z\/8_Out_of_10_Cats_Uncut_S11E06_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:09:44+01:00"
+      },
+      "1XC_S11E05_HD":{
+        "title":"8 Out of 10 Cats Uncut S11E05 [HD]",
+        "guid":"1XC_S11E05_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/6cq\/8_Out_of_10_Cats_Uncut_S11E05_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-09T22:09:44+01:00"
+      },
+      "6NN_S12E04_HD":{
+        "title":"8 Out of 10 Cats Uncut S12E04 [HD]",
+        "guid":"6NN_S12E04_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/i1i\/8_Out_of_10_Cats_Uncut_S12E04_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"duplicate torrent",
+        "hashstring":null,
+        "datedadded":"2011-10-20T17:07:06+01:00"
+      },
+      "75B_S12E05_HD":{
+        "title":"8 Out of 10 Cats Uncut S12E05 [HD]",
+        "guid":"75B_S12E05_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/jlg\/8_Out_of_10_Cats_Uncut_S12E05_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"6e3e9071c74f109cdbe49083e3f0a264cf5a91cf",
+        "datedadded":"2011-10-29T21:40:57+01:00"
+      },
+      "7N7_S12E06_HD":{
+        "title":"8 Out of 10 Cats Uncut S12E06 [HD]",
+        "guid":"7N7_S12E06_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/l48\/8_Out_of_10_Cats_Uncut_S12E06_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"cbc30f0f7af27d6f95ce8a40ff2848f7f25779ea",
+        "datedadded":"2011-10-30T11:42:21+00:00"
+      },
+      "8DM_S12E07_HD":{
+        "title":"8 Out of 10 Cats Uncut S12E07 [HD]",
+        "guid":"8DM_S12E07_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/nbj\/8_Out_of_10_Cats_Uncut_S12E07_WS_PDTV_%5BSKID%5D.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"a2bd73d35728add88e3ab027e1609b29c9f0dcb9",
+        "datedadded":"2011-11-07T08:44:52+00:00"
+      }
+    },
+    "usemagnet":false,
+    "startpaused":null,
+    "filter":"HD",
+    "checkdate":"2011-11-16T12:45:43+00:00"
+  },
+  "Young Apprentice":{
+    "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/young-apprentice-uk",
+    "folder":"Young Apprentice",
+    "torrents":{
+      "79X_S02E01_HD":{
+        "title":"Young Apprentice UK S02E01 [HD]",
+        "guid":"79X_S02E01_HD",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/jwx\/Young.Apprentice.UK.S02E01.WEBRip.XviD-FTP.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"2402ff25a07c0ee7103719fdc9804b9279b82600",
+        "datedadded":"2011-10-30T11:42:23+00:00"
+      }
+    },
+    "usemagnet":false,
+    "startpaused":null,
+    "filter":"hd",
+    "checkdate":"2011-11-16T12:45:44+00:00"
+  },
+  "Family Guy":{
+    "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/family-guy",
+    "folder":"",
+    "torrents":{
+      "5P5_S10E02_720":{
+        "title":"Family Guy S10E02 [720]",
+        "guid":"5P5_S10E02_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/h9n\/Family.Guy.S10E02.720p.HDTV.X264-DIMENSION.mkv.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"7c5b637a3ba4cc72d95f3a1fbbcdca57570405b2",
+        "datedadded":"2011-10-30T11:42:23+00:00"
+      },
+      "58K_S10E01_720":{
+        "title":"Family Guy S10E01 [720]",
+        "guid":"58K_S10E01_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/efh\/Family.Guy.S10E01.720p.HDTV.X264-DIMENSION.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"3fc0e8829b53883442d96bb10f74d60c08702faa",
+        "datedadded":"2011-10-30T11:42:23+00:00"
+      },
+      "7P0_S10E03_720":{
+        "title":"Family Guy S10E03 [720]",
+        "guid":"7P0_S10E03_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/l9x\/Family.Guy.S10E03.720p.HDTV.X264-DIMENSION.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"d3de0123a9499734b4c1521f58fa297889fd84b7",
+        "datedadded":"2011-11-02T11:44:51+00:00"
+      },
+      "8ZG_S10E05_720":{
+        "title":"Family Guy S10E05 [720]",
+        "guid":"8ZG_S10E05_720",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/p9j\/Family.Guy.S10E05.720p.HDTV.X264-DIMENSION.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"7fda7ad89b4a815b69c4ab1a752f664dea197a4e",
+        "datedadded":"2011-11-16T12:45:44+00:00"
+      }
+    },
+    "usemagnet":false,
+    "startpaused":null,
+    "filter":"720",
+    "checkdate":"2011-11-16T12:45:45+00:00"
+  },
+  "Outnumbered":{
+    "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/outnumbered?prefer=720",
+    "folder":"",
+    "torrents":{
+      "64C_S04E06_":{
+        "title":"Outnumbered S04E06 [720]",
+        "guid":"64C_S04E06_",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/ght\/Outnumbered.4x06.Jakes_Secret_Part_Two.720p_HDTV_x264-FoV.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"a848102207327c8f74e032696697e3b4b16fbb1a",
+        "datedadded":"2011-11-03T23:00:53+00:00"
+      },
+      "5HS_S04E05_":{
+        "title":"Outnumbered S04E05 [720]",
+        "guid":"5HS_S04E05_",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/f13\/Outnumbered.4x05.Jakes_Secret.720p_HDTV_x264-FoV.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"1c4bf91794ad7d97cfea50bb7d699d531bb75a40",
+        "datedadded":"2011-11-03T23:00:53+00:00"
+      },
+      "54L_S04E04_":{
+        "title":"Outnumbered S04E04 [720]",
+        "guid":"54L_S04E04_",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/e4y\/Outnumbered.4x04.Bens_Parents_Evening.720p_HDTV_x264-FoV.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"b172a2b839a3329b5a2a534a0215e6a45f6bac1a",
+        "datedadded":"2011-11-03T23:00:53+00:00"
+      },
+      "4PO_S04E03_":{
+        "title":"Outnumbered S04E03 [720]",
+        "guid":"4PO_S04E03_",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/djx\/Outnumbered.S04E03.720p.HDTV.x264-BiA.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"fec557d10c9576b0c29ea7171c89a04f5064dcdc",
+        "datedadded":"2011-11-03T23:00:53+00:00"
+      },
+      "4B8_S04E02_":{
+        "title":"Outnumbered S04E02 [720]",
+        "guid":"4B8_S04E02_",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/bz7\/Outnumbered.S04E02.720p.HDTV.x264-BiA.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"747dc99c59b986b8fd3e8657e3b32b37781b186d",
+        "datedadded":"2011-11-03T23:00:53+00:00"
+      },
+      "3YX_S04E01_":{
+        "title":"Outnumbered S04E01 [720]",
+        "guid":"3YX_S04E01_",
+        "link":"http:\/\/www.dailytvtorrents.org\/dl\/b9m\/Outnumbered.4x01.720p_HDTV_x264-FoV.DailyTvTorrents.torrent",
+        "added":true,
+        "magnet":null,
+        "results":"success",
+        "hashstring":"7a840800fc040feb6e4a4a9b5ca58f552cbfde1e",
+        "datedadded":"2011-11-03T23:00:53+00:00"
+      }
+    },
+    "usemagnet":false,
+    "startpaused":true,
+    "filter":"",
+    "checkdate":"2011-11-16T12:45:45+00:00"
   }
 }

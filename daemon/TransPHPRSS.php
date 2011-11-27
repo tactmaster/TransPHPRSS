@@ -90,8 +90,10 @@ do {
 
         $reader = new XMLReader();
         try {
+          
             if ($reader->open($feed->url)) {
-$initem = false;
+                
+                $initem = false;
                 while ($reader->read()) {
                     switch ($reader->nodeType) {
                         case (XMLREADER::ELEMENT):
@@ -104,13 +106,12 @@ $initem = false;
                                 if ($reader->localName == "title") {
                                     $torrent->title = read_string($reader);
                                     if (isset($feed->filter)) {
-                                       if (preg_match('/' . $feed->filter . '/i', $torrent->title)) {
+                                        if (preg_match('/' . $feed->filter . '/i', $torrent->title)) {
                                             $todownload = true;
                                         }
                                     } else {
                                         $todownload = true;
                                     }
-                                     
                                 } elseif ($reader->localName == "link") {
                                     //print_r($reader);
                                     // if not set by enclourse first. 
@@ -148,6 +149,7 @@ $initem = false;
                                         $time = new DateTime("now");
                                         $torrent->datedadded = $time->format(DATE_W3C);
                                     }
+                                  
                                     $feeds[$name]->torrents[$torrent->guid] = $torrent;
                                 }
                             };
@@ -155,9 +157,11 @@ $initem = false;
                     }
                 }
             } else {
-                logwarning(' XMLReader error ' . $feed['url'], $settings);
+                
+                logwarning(' XMLReader error ' . $feeds['url'], $settings);
             }
         } catch (Exception $e) {
+           
             logerror(' XMLReader error ' . $e->getMessage(), $settings);
         }
         $time = new DateTime("now");
@@ -204,7 +208,7 @@ $initem = false;
                         }
                         // print_r($result);
                         if ($result->result == "duplicate torrent") {
-                            
+
                             $torrent->added = true;
                         } elseif ($result->result == "success") {
                             $torrent->hashstring = $result->arguments->torrent_added->hashString;
@@ -218,6 +222,7 @@ $initem = false;
                         $torrent->results = $result->result;
                         // print "\n";
                     } catch (Exception $e) {
+                        $torrent->results = "exception:" . $e->getMessage();
                         logerror(' Caught exception: ' . $e->getMessage(), $settings);
                     }
                 }

@@ -1,10 +1,8 @@
-
 {
   "username":"admin",
   "password":"password1",
   "repeat":720,
   "debug":true,
-
   "daemon":false,
   "defaultsave":"\/media\/BitTorrent\/",
   "url":"http:\/\/jeffmund:8181\/transmission\/rpc",
@@ -16,6 +14,7 @@
       "usemagnet":false,
       "startpaused":null,
       "filter":null,
+      "checkdate":null,
       "title":"",
       "link":""
     },
@@ -26,6 +25,7 @@
       "usemagnet":false,
       "startpaused":null,
       "filter":null,
+      "checkdate":null,
       "title":"",
       "link":""
     },
@@ -35,7 +35,8 @@
       "torrents":null,
       "usemagnet":false,
       "startpaused":null,
-      "filter":null
+      "filter":null,
+      "checkdate":null
     },
     "burnnotice":{
       "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/burn-notice",
@@ -43,8 +44,8 @@
       "torrents":null,
       "usemagnet":false,
       "startpaused":null,
-      
-      "filter":"720"
+      "filter":"720",
+      "checkdate":null
     },
     "8outof10cats":{
       "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/8-out-of-10-cats-uncut",
@@ -52,17 +53,44 @@
       "torrents":null,
       "usemagnet":false,
       "startpaused":null,
-      
-      "filter":"HD"
+      "filter":"HD",
+      "checkdate":null
     },
     "mocktheweek":{
-      "url":"http://www.dailytvtorrents.org\/rss\/show\/mock-the-week",
+      "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/mock-the-week",
       "folder":"mocktheweek",
       "torrents":null,
       "usemagnet":false,
       "startpaused":null,
-      
-      "filter":"720"
+      "filter":"720",
+      "checkdate":null
+    },
+    "Young Apprentice":{
+      "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/young-apprentice-uk",
+      "folder":"Young Apprentice",
+      "torrents":null,
+      "usemagnet":false,
+      "startpaused":null,
+      "filter":"hd",
+      "checkdate":null
+    },
+    "Family Guy":{
+      "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/family-guy",
+      "folder":"",
+      "torrents":null,
+      "usemagnet":false,
+      "startpaused":null,
+      "filter":"720",
+      "checkdate":null
+    },
+    "Outnumbered":{
+      "url":"http:\/\/www.dailytvtorrents.org\/rss\/show\/outnumbered?prefer=720",
+      "folder":"",
+      "torrents":null,
+      "usemagnet":false,
+      "startpaused":true,
+      "filter":"",
+      "checkdate":null
     }
   }
 }

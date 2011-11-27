@@ -17,8 +17,8 @@
   along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
 
  */
-//require_once 'settings.php';
 
+//require_once 'settings.php';
 //function loadSettings($file, $object) {
 //    if (file_exists($file)) { 
 //        $filedata = file_get_contents($file);
@@ -48,7 +48,7 @@
 //    return $settings;
 //}
 
-function saveSettings($file,$setting) {
+function saveSettings($file, $setting) {
     $fh = fopen($file, 'w');
 
 
@@ -63,10 +63,8 @@ function array_to_object($array = array(), $data = false) {
     if (!empty($array)) {
 
         foreach ($array as $akey => $aval) {
-        
+
             $data->{$akey} = $aval;
-             
-      
         }
         return $data;
     }
@@ -207,49 +205,41 @@ function loadXML2($domain, $path, $timeout = 30) {
     return false;
 }
 
-function read_string($reader) { 
-    $node = $reader->expand(); 
-    return $node->textContent; 
-} 
-function loginfo($message, $settings)
-{
-    if ($settings->daemon)
-{
-   System_Daemon::log(System_Daemon::LOG_INFO, "Daemon: '" .
-        System_Daemon::getOption("appName") .
-        $message);
-    } else
-    {
-        echo "Info: ".$message."\n";
-    }
-    
+function read_string($reader) {
+    $node = $reader->expand();
+    return $node->textContent;
 }
 
-function logwarning($message, $settings)
-{
-    if ($settings->daemon)
-{
-      System_Daemon::log(System_Daemon::LOG_WARNING, "Daemon: '" .
-        System_Daemon::getOption("appName") .
-        $message);
-    } else
-    {
-        echo "Waring: ".$message."\n";
+function loginfo($message, $settings) {
+    if ($settings->daemon) {
+        System_Daemon::log(System_Daemon::LOG_INFO, "Daemon: '" .
+                System_Daemon::getOption("appName") .
+                $message);
+    } else {
+        echo "Info: " . $message . "\n";
     }
-    
 }
 
-function logerror($message, $settings)
-{
-    if ($settings->daemon)
-{
-      System_Daemon::log(System_Daemon::LOG_ERR, "Daemon: '" .
-        System_Daemon::getOption("appName") .
-        $message);
-    } else
-    {
-        echo "Error: ".$message."\n";;
+function logwarning($message, $settings) {
+    if ($settings->daemon) {
+         echo "Warning: " . $message . "\n";
+        System_Daemon::log(System_Daemon::LOG_WARNING, "Daemon: '" .
+                System_Daemon::getOption("appName") .
+                $message);
+    } else {
+        echo "Warning: " . $message . "\n";
     }
-    
 }
+
+function logerror($message, $settings) {
+    if ($settings->daemon) {
+        System_Daemon::log(System_Daemon::LOG_ERR, "Daemon: '" .
+                System_Daemon::getOption("appName") .
+                $message);
+    } else {
+        echo "Error: " . $message . "\n";
+        ;
+    }
+}
+
 ?>

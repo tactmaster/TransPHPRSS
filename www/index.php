@@ -15,6 +15,9 @@ $feeds = loadFeeds($feedsfile);
         
     </head>
     <body>
+        <a href="Feeds.php">Feeds</a>
+        <a href="FeedsFile.php">FeedsFiles</a>
+        <a href="settings.php">Settings</a>
     <pre><?php 
     if (file_exists($feedsfile))
 {
